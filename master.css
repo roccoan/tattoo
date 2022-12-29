@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&family=Rye&display=swap');
+
+.cover {
+    background-image: url(img/cover.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#hero {
+    font-family: 'Rye', cursive;
+}
