@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&family=Rye&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Raleway:ital,wght@0,300;0,400;1,200&display=swap');
 
 .cover {
     background-image: url(img/cover.jpg);
@@ -8,5 +8,21 @@
 }
 
 #hero {
-    font-family: 'Rye', cursive;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.address {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+.cardchisiamo {
+    margin: auto;
+    width: 90%;
+    background-color: rgba(0, 0, 0, 0.701);
+    color: white;
 }
