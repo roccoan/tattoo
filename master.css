@@ -7,6 +7,12 @@
     background-attachment: fixed;
 }
 
+@supports (-webkit-touch-callout: none) {
+    .cover {
+        background: linear-gradient(to right,#171a1e, #463c20);
+    }
+  }
+
 #hero {
     font-family: 'Bebas Neue', sans-serif;
 }
